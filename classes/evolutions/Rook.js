@@ -17,7 +17,7 @@ class Rook extends Evolution {
             scale: 1.3,
             power: 1,
             resistance: 5.5,
-            damage: 1.6,
+            damage: 9.0,
             damageCooldown: 1.3,
             healAmount: 1.5,
             healWait: 2
@@ -31,7 +31,7 @@ class Rook extends Evolution {
             power: 2.5,
             damageCooldown: 0.7,
             resistance: 1,
-            speed: 1.5,
+            speed: 9.2,
         };
     }
 }
